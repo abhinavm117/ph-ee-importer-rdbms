@@ -1,0 +1,2 @@
+id,request_id,payment_mode,account_number,payer_identifier_type,payer_identifier,payee_identifier_type,payee_identifier,amount,currency,note,program_shortcode,cycle,payee_dfsp_id,batch_id
+1,"l9f6ac4d052e-72aa3ea4-e6f6-4880-877f",mojaloop,,msisdn,835322416,msisdn,27713803912,10,USD,"Duplicate transaction.",,,,

@@ -1,0 +1,2 @@
+id,request_id,payment_mode,account_number,payer_identifier_type,payer_identifier,payee_identifier_type,payee_identifier,amount,currency,note,program_shortcode,cycle,payee_dfsp_id
+0,"d3f488cd-3697-4426-9adc-7f81a6dde578",mojaloop,,ACCOUNT,123456789,accountNumber,003001003873110196,100,USD,"Integration test",,,
