@@ -8,7 +8,7 @@ bin
 bin/
 .gradle
 .gradle/
-.csv
+*.csv
 build
 .DS_Store
 createDDL.jdbc
